@@ -1,0 +1,8 @@
+/***********************************
+ * Author:       91Projects
+ * Website   :   https://91Projects.blogspot.com
+ * Version:      1.0
+ * License:      copyright 107
+ * Text Domain:  91Projects
+ * Domain Path: /languages/
+ ***********************************/
